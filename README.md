@@ -105,11 +105,22 @@ Raw Data → Excel Table → Dashboard Plan → PivotTables → PivotCharts → 
 
 ## 🖥️ Dashboard Preview
 
-> Add a screenshot of your final `Sales_Dashboard` sheet here for maximum impact.
+### 📂 Raw Sales Data
+Structured Excel Table used as the single source for all PivotTables.
+![Sales Data](Sales_data.png)
 
-```
-[ Insert dashboard-screenshot.png here ]
-```
+### 📊 Supporting PivotTables
+PivotTables built behind the dashboard — powering KPIs and charts without exposing raw data on the dashboard sheet.
+![Pivot Table 1](Sales_Pivot_Table_1.png)
+![Pivot Table 2](Sales_Pivot_Table_2.png)
+
+### 📌 KPI Summary
+Key metrics — Total Revenue, Total Orders, Quantity Sold, and Average Order Value — at a glance.
+![Sales KPIs](Sales_KPI's.png)
+
+### 🎯 Final Interactive Dashboard
+The complete dashboard with KPI cards, PivotCharts, Slicers, and Timeline filters.
+![Sales Dashboard](Sales_Dashboard.png)
 
 ---
 
@@ -163,9 +174,9 @@ Raw Data → Excel Table → Dashboard Plan → PivotTables → PivotCharts → 
 
 ## 👤 Author
 
-**[Your Name]**
-Data Analyst | Excel • Power BI • SQL
-📧 [your-email@example.com] | 🔗 [LinkedIn](#) | 🔗 [Portfolio](#)
+**[Vishal Verma]**
+Data Analyst | Data Scientist | Excel • Power BI • SQL • Machine Learning
+📧 [vishalverma.50103@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/vishalvermacore) | 🔗 [Portfolio](https://vishal-verma-portfolio.vercel.app/)
 
 ---
 
